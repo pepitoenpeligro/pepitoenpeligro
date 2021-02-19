@@ -1,4 +1,4 @@
-### Hi there, I'm Pepito 👋
+### Hi there, I'm Pepito <img alt="Language" width=25 src="imgs/hi.gif"/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gelbevomei/)
 
@@ -40,6 +40,7 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
         <img alt="Language" src="imgs/jersey.png"/>
         <img alt="Language" src="imgs/hibernate.png"/>
         <img alt="Language" src="imgs/tomcat.svg"/>
+        <img alt="Language" src="imgs/mysql.svg"/>
         </td> 
         <td>It is an enterprise application for the sale and management of academic courses (as a eShop)</td> 
       </tr>
@@ -114,6 +115,30 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
 	    <li><b>Terminal:  </b> ZSH - Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor: </b> VSCode</li>
 	    <br />
+	</ul>	
+</details>
+
+<details>	
+  <br />
+  <summary><b>🤓 Technologies and environments I am comfortable working with</b></summary>
+  	<ul>
+  	  <li>Amazon AWS (EC2, ECS, Cloudformation...)<img   alt="environment" src="imgs/amazonaws.svg"/></li>
+  	  <li>DigitalOcean Droplets<img   alt="environment" src="imgs/digitalocean.svg"/></li>
+  	  <li>Puppet infraestructure provisioning and configuration management <img   alt="environment" src="imgs/puppet.svg"/></li>
+  	  <li>Terraform <img   alt="environment" src="imgs/terraform.svg"/></li>
+  	  <li>Git and GitHub<img   alt="environment" src="imgs/git.svg"/></li>
+  	  <li>GitHub Actions<img   alt="environment" src="imgs/githubactions.svg"/></li>
+  	  <li>Bootstrap<img   alt="environment" src="imgs/bootstrap.svg"/></li>
+  	  <li>C++<img   alt="environment" src="imgs/cplusplus.svg"/></li>
+  	  <li>OpenStack<img   alt="environment" src="imgs/openstack.svg"/></li>
+  	  <li>Travis<img   alt="environment" src="imgs/travisci.svg"/></li>
+  	  <li>Drone.io<img   alt="environment" src="imgs/drone.svg"/></li>
+  	  <li>CircleCI<img   alt="environment" src="imgs/circleci.svg"/></li>
+  	  <li>Blender<img   alt="environment" src="imgs/blender.svg"/></li>
+  	  <li>Blender<img   alt="environment" src="imgs/blender.svg"/></li>
+  	  <li>Illustrator<img   alt="environment" src="imgs/adobeillustrator.svg"/></li>
+  	  <li>Photshop<img   alt="environment" src="imgs/adobephotoshop.svg"/></li>
+	    <br/>
 	</ul>	
 </details>
 
