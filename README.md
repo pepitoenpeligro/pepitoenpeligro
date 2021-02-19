@@ -18,6 +18,10 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
 <br/>
 <br/>
 
+<!-- <div align="center"> -->
+<img src="imgs/go_down.gif">
+<!-- </div> -->
+
 <details>
   <summary><b>🚀 Open Source Projects</b></summary>
   <br />
