@@ -122,22 +122,22 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
   <br />
   <summary><b>🤓 Technologies and environments I am comfortable working with</b></summary>
   	<ul>
-  	  <li>Amazon AWS (EC2, ECS, Cloudformation...)<img   alt="environment" src="imgs/amazonaws.svg"/></li>
-  	  <li>DigitalOcean Droplets<img   alt="environment" src="imgs/digitalocean.svg"/></li>
-  	  <li>Puppet infraestructure provisioning and configuration management <img   alt="environment" src="imgs/puppet.svg"/></li>
-  	  <li>Terraform <img   alt="environment" src="imgs/terraform.svg"/></li>
-  	  <li>Git and GitHub<img   alt="environment" src="imgs/git.svg"/></li>
-  	  <li>GitHub Actions<img   alt="environment" src="imgs/githubactions.svg"/></li>
-  	  <li>Bootstrap<img   alt="environment" src="imgs/bootstrap.svg"/></li>
-  	  <li>C++<img   alt="environment" src="imgs/cplusplus.svg"/></li>
-  	  <li>OpenStack<img   alt="environment" src="imgs/openstack.svg"/></li>
-  	  <li>Travis<img   alt="environment" src="imgs/travisci.svg"/></li>
-  	  <li>Drone.io<img   alt="environment" src="imgs/drone.svg"/></li>
-  	  <li>CircleCI<img   alt="environment" src="imgs/circleci.svg"/></li>
-  	  <li>Blender<img   alt="environment" src="imgs/blender.svg"/></li>
-  	  <li>Blender<img   alt="environment" src="imgs/blender.svg"/></li>
-  	  <li>Illustrator<img   alt="environment" src="imgs/adobeillustrator.svg"/></li>
-  	  <li>Photshop<img   alt="environment" src="imgs/adobephotoshop.svg"/></li>
+  	  <li>Amazon AWS (EC2, ECS, Cloudformation...)<img width=75  alt="environment" src="imgs/amazonaws.svg"/></li>
+  	  <li>DigitalOcean Droplets<img width=75  alt="environment" src="imgs/digitalocean.svg"/></li>
+  	  <li>Puppet infraestructure provisioning and configuration management <img width=75  alt="environment" src="imgs/puppet.svg"/></li>
+  	  <li>Terraform <img width=75  alt="environment" src="imgs/terraform.svg"/></li>
+  	  <li>Git and GitHub<img width=75  alt="environment" src="imgs/git.svg"/></li>
+  	  <li>GitHub Actions<img width=75  alt="environment" src="imgs/githubactions.svg"/></li>
+  	  <li>Bootstrap<img width=75  alt="environment" src="imgs/bootstrap.svg"/></li>
+  	  <li>C++<img width=75  alt="environment" src="imgs/cplusplus.svg"/></li>
+  	  <li>OpenStack<img width=75  alt="environment" src="imgs/openstack.svg"/></li>
+  	  <li>Travis<img width=75  alt="environment" src="imgs/travisci.svg"/></li>
+  	  <li>Drone.io<img width=75  alt="environment" src="imgs/drone.svg"/></li>
+  	  <li>CircleCI<img width=75  alt="environment" src="imgs/circleci.svg"/></li>
+  	  <li>Blender<img width=75  alt="environment" src="imgs/blender.svg"/></li>
+  	  <li>Blender<img width=75  alt="environment" src="imgs/blender.svg"/></li>
+  	  <li>Illustrator<img width=75  alt="environment" src="imgs/adobeillustrator.svg"/></li>
+  	  <li>Photshop<img width=75  alt="environment" src="imgs/adobephotoshop.svg"/></li>
 	    <br/>
 	</ul>	
 </details>
