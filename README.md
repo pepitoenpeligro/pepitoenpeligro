@@ -15,44 +15,85 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
 - 🖥 If it can be automated, let me do it. If not, also
 
 
+<br/>
+<br/>
+
 <details>
   <summary><b>🚀 Open Source Projects</b></summary>
   <br />
   <table>
     <thead align="center">
       <tr>
-        <td><b>💻 Projects</b></td>
+        <td><b>🤓 Projects</b></td>
         <td><b>💻 Language</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
+        <td><b>🛠 Description</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	    <td><a href="https://github.com/pepitoenpeligro/pepitoenpeligro"><b>🤓 pepitoenpeligro</b></a></td>
-        <td><img alt="Stars" src=""/></td>
-        <td><img alt="Language" src=""/></td> 
-        <td><img alt="Forks" src=""/></td>
-        <td><img alt="Issues" src=""/></td>
-        <td><img alt="Pull Requests" src=""/></td>
+	    <td><a href="https://github.com/pepitoenpeligro/PepitoLearning-EnterpriseApp"><b>PepitoLearning WebApp</b></a></td>
+        <td>
+        <img alt="Language" src="imgs/jersey.png"/>
+        <img alt="Language" src="imgs/hibernate.png"/>
+        <img alt="Language" src="imgs/tomcat.svg"/>
+        </td> 
+        <td>It is an enterprise application for the sale and management of academic courses (as a eShop)</td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/pepitoenpeligro/pepitoenpeligro"><b>🤓 pepitoenpeligro</b></a></td>
-        <td><img alt="Stars" src=""/></td>
-        <td><img alt="Language" src=""/></td> 
-        <td><img alt="Forks" src=""/></td>
-        <td><img alt="Issues" src=""/></td>
-        <td><img alt="Pull Requests" src=""/></td>
+	    <td><a href="https://github.com/pepitoenpeligro/PepitoLearning-Android"><b>PepitoLearning Android</b></a></td>
+        <td>
+        <img alt="Language" src="imgs/android.svg"/>
+        <img alt="Language" src="imgs/androidstudio.svg"/>
+        </td> 
+        <td>It is a client for the [PepitoLearning enterprise application](https://www.github.com/pepitoenpeligro/PepitoLearningEnterpriseApp)</td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/pepitoenpeligro/pepitoenpeligro"><b>🤓 pepitoenpeligro</b></a></td>
-        <td><img alt="Stars" src=""/></td>
-        <td><img alt="Language" src=""/></td> 
-        <td><img alt="Forks" src=""/></td>
-        <td><img alt="Issues" src=""/></td>
-        <td><img alt="Pull Requests" src=""/></td>
+	      <td><a href="https://github.com/pepitoenpeligro/VCSserver"><b>VideoConference Educational Platform - Server</b></a></td>
+        <td><img alt="Language" src="imgs/node-dot-js.svg"/>
+        <img alt="Language" src="imgs/mongodb.svg"/>
+        <img alt="Language" src="imgs/express.svg"/>
+        </td> 
+        <td>Jitsi videoconferencing system access management platform (self-hosted). Designed for virtual teaching</td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/pepitoenpeligro/VCSclient"><b>VideoConference Educational Platform - Client</b></a></td>
+        <td><img alt="Language" src="imgs/react.svg"/></td> 
+        <td>Jitsi videoconferencing system access management platform (self-hosted). Designed for virtual teaching</td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/pepitoenpeligro/VideoControlSystemNative"><b>Video Control System</b></a></td>
+        <td><img alt="Language" src="imgs/quarkus.svg"/><img alt="Language" src="imgs/webrtc.svg"/></td> 
+        <td>Enables real-time videoconferencing between two people using WebRTC and Quarkus</td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/pepitoenpeligro/cloudbanking"><b>Cloudbanking</b></a></td>
+        <td>
+        <img alt="Language" src="imgs/rust.svg"/>
+        <img alt="Language" src="imgs/nim.svg"/>
+        <img alt="Language" src="imgs/nginx.svg"/>
+        <img alt="Language" src="imgs/react.svg"/>
+        <img alt="Language" src="imgs/mongodb.svg"/>
+        <img alt="Language" src="imgs/docker.svg"/>
+        <img alt="Language" src="imgs/githubactions.svg"/>
+        <img alt="Language" src="imgs/azurepipelines.svg"/>
+        </td> 
+        <td>Enables management of individual and collective finances and allows interaction via multiple APIs - Not completed</td> 
+      </tr>
+      <tr>
+	      <td><a href="https://play.google.com/store/apps/details?id=com.veneno.pepito.dameveneno&hl=es_419&gl=US"><b>DameVeneno - Android</b></a></td>
+        <td>
+        <img alt="Language" src="imgs/android.svg"/>
+        <img alt="Language" src="imgs/androidstudio.svg"/>
+        </td> 
+        <td>Tribute application to "Cristina La Veneno"</td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/pepitoenpeligro/DameVeneno"><b>DameVeneno - iOS</b></a></td>
+        <td>
+        <img alt="Language" src="imgs/swift.svg"/>
+        <img alt="Language" src="imgs/xcode.svg"/>
+        </td> 
+        <td>Tribute application to "Cristina La Veneno"</td> 
       </tr>
     </tbody>
   </table>
@@ -63,15 +104,18 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Big Sur</li>
-	    <li><b>Laptop: </b> Macbook Pro 13' Late 2013 </li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode</li>
+  	    <li><b>OS:  </b>macOS Big Sur</li>
+	    <li><b>Laptop:  </b> Macbook Pro 13' Late 2013 </li>
+  	    <li><b>Browser:  </b> Firefox Developer Edition</li>
+	    <li><b>Terminal:  </b> ZSH - Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor: </b> VSCode</li>
 	    <br />
 	</ul>	
 </details>
 
+
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepitoenpeligro)](https://github.com/anuraghazra/github-readme-stats)
 
