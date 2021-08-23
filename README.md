@@ -1,7 +1,7 @@
 ### Hi there, I'm Pepito <img alt="Language" width=25 src="imgs/hi.gif"/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gelbevomei/)
-
+[![CV](https://img.shields.io/badge/CV-Curriculum-yellow?style=flat&logo=CV&logoColor=white)](https://pepitoenpeligro.github.io/pepito-cv/)
 
 [![](https://gitwar.herokuapp.com/badge?username=pepitoenpeligro&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
