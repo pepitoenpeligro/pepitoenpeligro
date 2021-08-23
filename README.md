@@ -147,6 +147,9 @@ Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepitoenpeligro)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/pepitoenpeligro">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepitoenpeligro&show_icons=true&layout=compact&hide_border=true&langs_count=10" alt="pepitoenpeligro's GitHub stats" />
+</a>
 
 <!--
 **pepitoenpeligro/pepitoenpeligro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
