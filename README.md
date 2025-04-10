@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! I am [José Antonio (pepito)](https://www.github.com/pepitoenpeligro).
 
-- 🌱 I am currently finishing my Computer Engineering Master degree at [UGR (University of Granada)](https://www.ugr.es/en/)
+- 🌱 Computer Engineering Master degree at [UGR (University of Granada)](https://www.ugr.es/en/)
 - ❤️ I love solving problems, developing software and managing infrastructure and systems.
 - 🏋🏻 I enjoy sports such as running and weight training.
 - ⏰ It is always a good time to share my knowledge and to continue learning on my own.
